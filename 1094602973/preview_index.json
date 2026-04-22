@@ -1,0 +1,19 @@
+{
+  "qq_number": "2801958920",
+  "group_number": "1094602973",
+  "updated_at": "2026-04-22T16:19:54.828214",
+  "skins": [
+    {
+      "name": "乐妍底包",
+      "file": "水の蓝屿流光彩底.bds",
+      "thumb": "水の蓝屿流光彩底.bds_py_26_light_thumb.png",
+      "full": "水の蓝屿流光彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "水の蓝屿流光.bdi",
+      "thumb": "水の蓝屿流光.bdi_py_26_light_thumb.png",
+      "full": "水の蓝屿流光.bdi_py_26_light.png"
+    }
+  ]
+}

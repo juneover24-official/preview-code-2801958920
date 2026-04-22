@@ -1,0 +1,19 @@
+{
+  "qq_number": "2801958920",
+  "group_number": "1041576475",
+  "updated_at": "2026-04-22T16:19:18.840118",
+  "skins": [
+    {
+      "name": "晶のmelody物语",
+      "file": "晶のmelody物语彩底.bds",
+      "thumb": "晶のmelody物语彩底.bds_py_26_default_thumb.png",
+      "full": "晶のmelody物语彩底.bds_py_26_default.png"
+    },
+    {
+      "name": "晶のmelody物语",
+      "file": "晶のmelody物语.bdi",
+      "thumb": "晶のmelody物语.bdi_py_26_default_thumb.png",
+      "full": "晶のmelody物语.bdi_py_26_default.png"
+    }
+  ]
+}
