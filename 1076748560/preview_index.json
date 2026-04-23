@@ -1,32 +1,8 @@
 {
   "qq_number": "2801958920",
   "group_number": "1076748560",
-  "updated_at": "2026-04-22T16:19:15.362710",
+  "updated_at": "2026-04-23T15:52:35.911521",
   "skins": [
-    {
-      "name": "水の圣诞星愿",
-      "file": "水の圣诞星愿彩底.bds",
-      "thumb": "水の圣诞星愿彩底.bds_py_26_light_thumb.png",
-      "full": "水の圣诞星愿彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の圣诞心语",
-      "file": "水の圣诞心语彩底闷.bds",
-      "thumb": "水の圣诞心语彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の圣诞心语彩底闷.bds_py_26_light.png"
-    },
-    {
-      "name": "水の圣诞星愿",
-      "file": "水の圣诞星愿彩底闷.bds",
-      "thumb": "水の圣诞星愿彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の圣诞星愿彩底闷.bds_py_26_light.png"
-    },
-    {
-      "name": "水の圣诞心语",
-      "file": "水の圣诞心语彩底.bds",
-      "thumb": "水の圣诞心语彩底.bds_py_26_light_thumb.png",
-      "full": "水の圣诞心语彩底.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "水の圣诞心语闷.bdi",
@@ -50,6 +26,30 @@
       "file": "水の圣诞星愿闷.bdi",
       "thumb": "水の圣诞星愿闷.bdi_py_26_light_thumb.png",
       "full": "水の圣诞星愿闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "水の圣诞星愿",
+      "file": "水の圣诞星愿彩底.bds",
+      "thumb": "水の圣诞星愿彩底.bds_py_26_light_thumb.png",
+      "full": "水の圣诞星愿彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の圣诞心语",
+      "file": "水の圣诞心语彩底闷.bds",
+      "thumb": "水の圣诞心语彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の圣诞心语彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の圣诞星愿",
+      "file": "水の圣诞星愿彩底闷.bds",
+      "thumb": "水の圣诞星愿彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の圣诞星愿彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の圣诞心语",
+      "file": "水の圣诞心语彩底.bds",
+      "thumb": "水の圣诞心语彩底.bds_py_26_light_thumb.png",
+      "full": "水の圣诞心语彩底.bds_py_26_light.png"
     }
   ]
 }

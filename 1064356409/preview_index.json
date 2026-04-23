@@ -1,32 +1,8 @@
 {
   "qq_number": "2801958920",
   "group_number": "1064356409",
-  "updated_at": "2026-04-22T16:19:21.817089",
+  "updated_at": "2026-04-23T15:52:38.042307",
   "skins": [
-    {
-      "name": "水の独角天使的梦境",
-      "file": "水の独角天使的梦境彩底.bds",
-      "thumb": "水の独角天使的梦境彩底.bds_py_26_light_thumb.png",
-      "full": "水の独角天使的梦境彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の甜刃喵酱",
-      "file": "水の甜刃喵酱彩底.bds",
-      "thumb": "水の甜刃喵酱彩底.bds_py_26_light_thumb.png",
-      "full": "水の甜刃喵酱彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の独角天使的梦境",
-      "file": "水の独角天使的梦境彩底闷.bds",
-      "thumb": "水の独角天使的梦境彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の独角天使的梦境彩底闷.bds_py_26_light.png"
-    },
-    {
-      "name": "水の甜刃喵酱",
-      "file": "水の甜刃喵酱彩底闷.bds",
-      "thumb": "水の甜刃喵酱彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の甜刃喵酱彩底闷.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "水の独角天使的梦境闷.bdi",
@@ -50,6 +26,30 @@
       "file": "水の独角天使的梦境.bdi",
       "thumb": "水の独角天使的梦境.bdi_py_26_light_thumb.png",
       "full": "水の独角天使的梦境.bdi_py_26_light.png"
+    },
+    {
+      "name": "水の独角天使的梦境",
+      "file": "水の独角天使的梦境彩底.bds",
+      "thumb": "水の独角天使的梦境彩底.bds_py_26_light_thumb.png",
+      "full": "水の独角天使的梦境彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の甜刃喵酱",
+      "file": "水の甜刃喵酱彩底.bds",
+      "thumb": "水の甜刃喵酱彩底.bds_py_26_light_thumb.png",
+      "full": "水の甜刃喵酱彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の独角天使的梦境",
+      "file": "水の独角天使的梦境彩底闷.bds",
+      "thumb": "水の独角天使的梦境彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の独角天使的梦境彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の甜刃喵酱",
+      "file": "水の甜刃喵酱彩底闷.bds",
+      "thumb": "水の甜刃喵酱彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の甜刃喵酱彩底闷.bds_py_26_light.png"
     }
   ]
 }

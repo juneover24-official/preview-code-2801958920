@@ -1,56 +1,8 @@
 {
   "qq_number": "2801958920",
   "group_number": "1080332688",
-  "updated_at": "2026-04-22T16:19:18.585192",
+  "updated_at": "2026-04-23T15:52:37.483548",
   "skins": [
-    {
-      "name": "水の彼岸纱影",
-      "file": "水の彼岸纱影彩底脆.bds",
-      "thumb": "水の彼岸纱影彩底脆.bds_py_26_light_thumb.png",
-      "full": "水の彼岸纱影彩底脆.bds_py_26_light.png"
-    },
-    {
-      "name": "水の日系卡通宅",
-      "file": "水の日系卡通宅彩底.bds",
-      "thumb": "水の日系卡通宅彩底.bds_py_26_light_thumb.png",
-      "full": "水の日系卡通宅彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の苔思雨信",
-      "file": "水の苔思雨信彩底水滴.bds",
-      "thumb": "水の苔思雨信彩底水滴.bds_py_26_light_thumb.png",
-      "full": "水の苔思雨信彩底水滴.bds_py_26_light.png"
-    },
-    {
-      "name": "水の仙踪蝶梦",
-      "file": "水の仙踪蝶梦彩底.bds",
-      "thumb": "水の仙踪蝶梦彩底.bds_py_26_light_thumb.png",
-      "full": "水の仙踪蝶梦彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の彼岸纱影",
-      "file": "水の彼岸纱影彩底.bds",
-      "thumb": "水の彼岸纱影彩底.bds_py_26_light_thumb.png",
-      "full": "水の彼岸纱影彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の苔思雨信",
-      "file": "水の苔思雨信彩底.bds",
-      "thumb": "水の苔思雨信彩底.bds_py_26_light_thumb.png",
-      "full": "水の苔思雨信彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の仙踪蝶梦",
-      "file": "水の仙踪蝶梦彩底闷.bds",
-      "thumb": "水の仙踪蝶梦彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の仙踪蝶梦彩底闷.bds_py_26_light.png"
-    },
-    {
-      "name": "水の日系卡通宅",
-      "file": "水の日系卡通宅彩底脆.bds",
-      "thumb": "水の日系卡通宅彩底脆.bds_py_26_light_thumb.png",
-      "full": "水の日系卡通宅彩底脆.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "水の日系卡通宅脆.bdi",
@@ -98,6 +50,54 @@
       "file": "水の苔思雨信水滴.bdi",
       "thumb": "水の苔思雨信水滴.bdi_py_26_light_thumb.png",
       "full": "水の苔思雨信水滴.bdi_py_26_light.png"
+    },
+    {
+      "name": "水の彼岸纱影",
+      "file": "水の彼岸纱影彩底脆.bds",
+      "thumb": "水の彼岸纱影彩底脆.bds_py_26_light_thumb.png",
+      "full": "水の彼岸纱影彩底脆.bds_py_26_light.png"
+    },
+    {
+      "name": "水の日系卡通宅",
+      "file": "水の日系卡通宅彩底.bds",
+      "thumb": "水の日系卡通宅彩底.bds_py_26_light_thumb.png",
+      "full": "水の日系卡通宅彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の苔思雨信",
+      "file": "水の苔思雨信彩底水滴.bds",
+      "thumb": "水の苔思雨信彩底水滴.bds_py_26_light_thumb.png",
+      "full": "水の苔思雨信彩底水滴.bds_py_26_light.png"
+    },
+    {
+      "name": "水の仙踪蝶梦",
+      "file": "水の仙踪蝶梦彩底.bds",
+      "thumb": "水の仙踪蝶梦彩底.bds_py_26_light_thumb.png",
+      "full": "水の仙踪蝶梦彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の彼岸纱影",
+      "file": "水の彼岸纱影彩底.bds",
+      "thumb": "水の彼岸纱影彩底.bds_py_26_light_thumb.png",
+      "full": "水の彼岸纱影彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の苔思雨信",
+      "file": "水の苔思雨信彩底.bds",
+      "thumb": "水の苔思雨信彩底.bds_py_26_light_thumb.png",
+      "full": "水の苔思雨信彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の仙踪蝶梦",
+      "file": "水の仙踪蝶梦彩底闷.bds",
+      "thumb": "水の仙踪蝶梦彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の仙踪蝶梦彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の日系卡通宅",
+      "file": "水の日系卡通宅彩底脆.bds",
+      "thumb": "水の日系卡通宅彩底脆.bds_py_26_light_thumb.png",
+      "full": "水の日系卡通宅彩底脆.bds_py_26_light.png"
     }
   ]
 }

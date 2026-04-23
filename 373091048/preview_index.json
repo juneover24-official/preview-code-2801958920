@@ -1,26 +1,8 @@
 {
   "qq_number": "2801958920",
   "group_number": "373091048",
-  "updated_at": "2026-04-22T16:19:20.179557",
+  "updated_at": "2026-04-23T15:52:37.681480",
   "skins": [
-    {
-      "name": "晶の棉花糖喵meow",
-      "file": "晶の棉花糖喵meow彩.bds",
-      "thumb": "晶の棉花糖喵meow彩.bds_py_26_default_thumb.png",
-      "full": "晶の棉花糖喵meow彩.bds_py_26_default.png"
-    },
-    {
-      "name": "水の旧蓝回忆",
-      "file": "水の旧蓝回忆彩底.bds",
-      "thumb": "水の旧蓝回忆彩底.bds_py_26_light_thumb.png",
-      "full": "水の旧蓝回忆彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の可可熊",
-      "file": "水の可可熊彩底.bds",
-      "thumb": "水の可可熊彩底.bds_py_26_light_thumb.png",
-      "full": "水の可可熊彩底.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "水の可可熊.bdi",
@@ -38,6 +20,24 @@
       "file": "晶の棉花糖喵meow.bdi",
       "thumb": "晶の棉花糖喵meow.bdi_py_26_default_thumb.png",
       "full": "晶の棉花糖喵meow.bdi_py_26_default.png"
+    },
+    {
+      "name": "晶の棉花糖喵meow",
+      "file": "晶の棉花糖喵meow彩.bds",
+      "thumb": "晶の棉花糖喵meow彩.bds_py_26_default_thumb.png",
+      "full": "晶の棉花糖喵meow彩.bds_py_26_default.png"
+    },
+    {
+      "name": "水の旧蓝回忆",
+      "file": "水の旧蓝回忆彩底.bds",
+      "thumb": "水の旧蓝回忆彩底.bds_py_26_light_thumb.png",
+      "full": "水の旧蓝回忆彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の可可熊",
+      "file": "水の可可熊彩底.bds",
+      "thumb": "水の可可熊彩底.bds_py_26_light_thumb.png",
+      "full": "水の可可熊彩底.bds_py_26_light.png"
     }
   ]
 }

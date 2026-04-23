@@ -1,68 +1,8 @@
 {
   "qq_number": "2801958920",
   "group_number": "1073377823",
-  "updated_at": "2026-04-22T16:19:18.614709",
+  "updated_at": "2026-04-23T15:52:37.433334",
   "skins": [
-    {
-      "name": "水の微醺纪事",
-      "file": "水の微醺纪事彩底闷.bds",
-      "thumb": "水の微醺纪事彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の微醺纪事彩底闷.bds_py_26_light.png"
-    },
-    {
-      "name": "水の被窝里的心动信号",
-      "file": "水の被窝里的心动信号彩底闷.bds",
-      "thumb": "水の被窝里的心动信号彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の被窝里的心动信号彩底闷.bds_py_26_light.png"
-    },
-    {
-      "name": "水の碎梦",
-      "file": "水の碎梦彩底脆.bds",
-      "thumb": "水の碎梦彩底脆.bds_py_26_light_thumb.png",
-      "full": "水の碎梦彩底脆.bds_py_26_light.png"
-    },
-    {
-      "name": "水の凌野",
-      "file": "水の凌野彩底.bds",
-      "thumb": "水の凌野彩底.bds_py_26_light_thumb.png",
-      "full": "水の凌野彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の微醺纪事",
-      "file": "水の微醺纪事彩底.bds",
-      "thumb": "水の微醺纪事彩底.bds_py_26_light_thumb.png",
-      "full": "水の微醺纪事彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "水の微醺野郎彩底.bds",
-      "thumb": "水の微醺野郎彩底.bds_py_26_light_thumb.png",
-      "full": "水の微醺野郎彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の凌野",
-      "file": "水の凌野彩底闷.bds",
-      "thumb": "水の凌野彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の凌野彩底闷.bds_py_26_light.png"
-    },
-    {
-      "name": "水の被窝里的心动信号",
-      "file": "水の被窝里的心动信号彩底.bds",
-      "thumb": "水の被窝里的心动信号彩底.bds_py_26_light_thumb.png",
-      "full": "水の被窝里的心动信号彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の碎梦",
-      "file": "水の碎梦彩底.bds",
-      "thumb": "水の碎梦彩底.bds_py_26_light_thumb.png",
-      "full": "水の碎梦彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "水の微醺野郎彩底脆.bds",
-      "thumb": "水の微醺野郎彩底脆.bds_py_26_light_thumb.png",
-      "full": "水の微醺野郎彩底脆.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "水の微醺野郎脆.bdi",
@@ -122,6 +62,66 @@
       "file": "水の碎梦.bdi",
       "thumb": "水の碎梦.bdi_py_26_light_thumb.png",
       "full": "水の碎梦.bdi_py_26_light.png"
+    },
+    {
+      "name": "水の微醺纪事",
+      "file": "水の微醺纪事彩底闷.bds",
+      "thumb": "水の微醺纪事彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の微醺纪事彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の被窝里的心动信号",
+      "file": "水の被窝里的心动信号彩底闷.bds",
+      "thumb": "水の被窝里的心动信号彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の被窝里的心动信号彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の碎梦",
+      "file": "水の碎梦彩底脆.bds",
+      "thumb": "水の碎梦彩底脆.bds_py_26_light_thumb.png",
+      "full": "水の碎梦彩底脆.bds_py_26_light.png"
+    },
+    {
+      "name": "水の凌野",
+      "file": "水の凌野彩底.bds",
+      "thumb": "水の凌野彩底.bds_py_26_light_thumb.png",
+      "full": "水の凌野彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の微醺纪事",
+      "file": "水の微醺纪事彩底.bds",
+      "thumb": "水の微醺纪事彩底.bds_py_26_light_thumb.png",
+      "full": "水の微醺纪事彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "水の微醺野郎彩底.bds",
+      "thumb": "水の微醺野郎彩底.bds_py_26_light_thumb.png",
+      "full": "水の微醺野郎彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の凌野",
+      "file": "水の凌野彩底闷.bds",
+      "thumb": "水の凌野彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の凌野彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の被窝里的心动信号",
+      "file": "水の被窝里的心动信号彩底.bds",
+      "thumb": "水の被窝里的心动信号彩底.bds_py_26_light_thumb.png",
+      "full": "水の被窝里的心动信号彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の碎梦",
+      "file": "水の碎梦彩底.bds",
+      "thumb": "水の碎梦彩底.bds_py_26_light_thumb.png",
+      "full": "水の碎梦彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "水の微醺野郎彩底脆.bds",
+      "thumb": "水の微醺野郎彩底脆.bds_py_26_light_thumb.png",
+      "full": "水の微醺野郎彩底脆.bds_py_26_light.png"
     }
   ]
 }

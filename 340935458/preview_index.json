@@ -1,44 +1,8 @@
 {
   "qq_number": "2801958920",
   "group_number": "340935458",
-  "updated_at": "2026-04-22T16:19:21.618527",
+  "updated_at": "2026-04-23T15:52:38.225645",
   "skins": [
-    {
-      "name": "水の新年小祈愿",
-      "file": "水の新年小祈愿彩底.bds",
-      "thumb": "水の新年小祈愿彩底.bds_py_26_light_thumb.png",
-      "full": "水の新年小祈愿彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の暴富小哭包",
-      "file": "水の暴富小哭包彩底.bds",
-      "thumb": "水の暴富小哭包彩底.bds_py_26_light_thumb.png",
-      "full": "水の暴富小哭包彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の暴富小哭包",
-      "file": "水の暴富小哭包彩底闷.bds",
-      "thumb": "水の暴富小哭包彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の暴富小哭包彩底闷.bds_py_26_light.png"
-    },
-    {
-      "name": "水の岁岁长安小福娃",
-      "file": "水の岁岁长安小福娃彩底.bds",
-      "thumb": "水の岁岁长安小福娃彩底.bds_py_26_light_thumb.png",
-      "full": "水の岁岁长安小福娃彩底.bds_py_26_light.png"
-    },
-    {
-      "name": "水の岁岁长安小福娃",
-      "file": "水の岁岁长安小福娃彩底闷.bds",
-      "thumb": "水の岁岁长安小福娃彩底闷.bds_py_26_light_thumb.png",
-      "full": "水の岁岁长安小福娃彩底闷.bds_py_26_light.png"
-    },
-    {
-      "name": "水の新年小祈愿",
-      "file": "水の新年小祈愿彩底脆.bds",
-      "thumb": "水の新年小祈愿彩底脆.bds_py_26_light_thumb.png",
-      "full": "水の新年小祈愿彩底脆.bds_py_26_light.png"
-    },
     {
       "name": "乐妍贴纸底包1",
       "file": "水の岁岁长安小福娃闷.bdi",
@@ -74,6 +38,42 @@
       "file": "水の新年小祈愿脆.bdi",
       "thumb": "水の新年小祈愿脆.bdi_py_26_light_thumb.png",
       "full": "水の新年小祈愿脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "水の新年小祈愿",
+      "file": "水の新年小祈愿彩底.bds",
+      "thumb": "水の新年小祈愿彩底.bds_py_26_light_thumb.png",
+      "full": "水の新年小祈愿彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の暴富小哭包",
+      "file": "水の暴富小哭包彩底.bds",
+      "thumb": "水の暴富小哭包彩底.bds_py_26_light_thumb.png",
+      "full": "水の暴富小哭包彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の暴富小哭包",
+      "file": "水の暴富小哭包彩底闷.bds",
+      "thumb": "水の暴富小哭包彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の暴富小哭包彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の岁岁长安小福娃",
+      "file": "水の岁岁长安小福娃彩底.bds",
+      "thumb": "水の岁岁长安小福娃彩底.bds_py_26_light_thumb.png",
+      "full": "水の岁岁长安小福娃彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の岁岁长安小福娃",
+      "file": "水の岁岁长安小福娃彩底闷.bds",
+      "thumb": "水の岁岁长安小福娃彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の岁岁长安小福娃彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の新年小祈愿",
+      "file": "水の新年小祈愿彩底脆.bds",
+      "thumb": "水の新年小祈愿彩底脆.bds_py_26_light_thumb.png",
+      "full": "水の新年小祈愿彩底脆.bds_py_26_light.png"
     }
   ]
 }
