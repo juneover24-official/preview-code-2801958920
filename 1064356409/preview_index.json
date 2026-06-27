@@ -1,7 +1,7 @@
 {
   "qq_number": "2801958920",
   "group_number": "1064356409",
-  "updated_at": "2026-04-23T15:52:38.042307",
+  "updated_at": "2026-06-27T11:27:41+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -50,6 +50,12 @@
       "file": "水の甜刃喵酱彩底闷.bds",
       "thumb": "水の甜刃喵酱彩底闷.bds_py_26_light_thumb.png",
       "full": "水の甜刃喵酱彩底闷.bds_py_26_light.png"
+    },
+    {
+      "name": "水の落樱甜梦",
+      "file": "水の落樱甜梦彩底闷.bds",
+      "thumb": "水の落樱甜梦彩底闷.bds_py_26_light_thumb.png",
+      "full": "水の落樱甜梦彩底闷.bds_py_26_light_thumb.png"
     }
   ]
 }
