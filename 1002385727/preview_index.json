@@ -1,7 +1,7 @@
 {
   "qq_number": "2801958920",
   "group_number": "1002385727",
-  "updated_at": "2026-04-23T15:52:38.333434",
+  "updated_at": "2026-06-29T03:15:12+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -50,6 +50,12 @@
       "file": "水の苹啥都可爱彩底.bds",
       "thumb": "水の苹啥都可爱彩底.bds_py_26_light_thumb.png",
       "full": "水の苹啥都可爱彩底.bds_py_26_light.png"
+    },
+    {
+      "name": "水の暖呼呼小世界",
+      "file": "水の暖呼呼小世界.bdi",
+      "thumb": "水の暖呼呼小世界.bdi_py_26_light_thumb.png",
+      "full": "水の暖呼呼小世界.bdi_py_26_light_thumb.png"
     }
   ]
 }
