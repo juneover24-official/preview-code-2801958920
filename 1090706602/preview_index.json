@@ -1,6 +1,7 @@
 {
   "qq_number": "2801958920",
   "group_number": "1090706602",
+  "updated_at": "2026-09-28T10:46:55+00:00",
   "skins": [
     {
       "name": "晶贝の甜心绵绵吐司脆脆音",
@@ -8,7 +9,13 @@
       "thumb": "晶贝の甜心绵绵吐司脆脆.bdi_py_26_light_thumb.png",
       "full": "晶贝の甜心绵绵吐司脆脆.bdi_py_26_light_thumb.png",
       "file_id": "5366b2a170b440931662c093cdee6adb"
+    },
+    {
+      "name": "晶贝の甜心绵绵吐司脆脆音",
+      "file": "晶贝の甜心绵绵吐司闷闷.bdi",
+      "thumb": "晶贝の甜心绵绵吐司闷闷.bdi_py_26_light_thumb.png",
+      "full": "晶贝の甜心绵绵吐司闷闷.bdi_py_26_light_thumb.png",
+      "file_id": "5d5af88b159292e573b19ebb66f16c09"
     }
-  ],
-  "updated_at": "2026-09-28T10:44:28+00:00"
+  ]
 }
