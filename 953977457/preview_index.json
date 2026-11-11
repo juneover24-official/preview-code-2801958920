@@ -1,7 +1,7 @@
 {
   "qq_number": "2801958920",
   "group_number": "953977457",
-  "updated_at": "2026-11-11T03:56:13+00:00",
+  "updated_at": "2026-11-11T03:56:20+00:00",
   "skins": [
     {
       "name": "晶贝の少女手札脆脆",
@@ -20,6 +20,12 @@
       "file": "晶贝-蕾蕾裙摆闷闷.bds",
       "thumb": "晶贝-蕾蕾裙摆闷闷.bds_py_26_light_thumb.png",
       "full": "晶贝-蕾蕾裙摆闷闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "晶贝-蕾蕾裙摆脆脆",
+      "file": "晶贝-蕾蕾裙摆脆脆.bds",
+      "thumb": "晶贝-蕾蕾裙摆脆脆.bds_py_26_light_thumb.png",
+      "full": "晶贝-蕾蕾裙摆脆脆.bds_py_26_light_thumb.png"
     }
   ]
 }
